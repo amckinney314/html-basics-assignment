@@ -1,0 +1,29 @@
+<!-- Student Name: Your Name -->
+<!-- boards.html - UAT Program Objectives Page -->
+
+<!DOCTYPE html> <!-- Declares HTML5 -->
+<html> <!-- Opens the HTML document -->
+
+  <head> <!-- Starts the head section -->
+    <title>Program Objectives</title> <!-- Sets the browser tab title -->
+  </head> <!-- Ends the head section -->
+
+  <body> <!-- Starts the visible page content -->
+
+    <!-- Main page heading -->
+    <h1>My Degree Program Objectives</h1>
+
+    <!-- Program objectives from the UAT catalog -->
+    <p>
+      - Demonstrate knowledge of programming languages<br>
+      - Apply software development methodologies<br>
+      - Solve problems with creative technical solutions<br>
+      - Analyze user needs and system requirements<br>
+      - Work effectively in a collaborative environment
+    </p>
+
+    <!-- No image is included on this page -->
+
+  </body> <!-- Ends the visible page content -->
+
+</html> <!-- Closes the HTML document -->
