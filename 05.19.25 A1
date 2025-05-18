@@ -1,0 +1,32 @@
+<!-- Created by Your Name, Date: 05/18/2025 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index Page</title>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to My Website</h1>
+</header>
+
+<nav>
+    <h2>Navigation</h2>
+    <a href="./index.html">Home</a><br>
+    <a href="./boards.html">Boards</a><br>
+</nav>
+
+<h3>This is the Index Page</h3>
+<p>Welcome! This page introduces the purpose of the website and provides navigation to the Boards section.</p>
+
+<footer>
+    Your Name<br>
+    University of Advancing Technology<br>
+    2625 W Baseline Rd<br>
+    Tempe, AZ 85283<br>
+    <p>Thanks for visiting! Explore more by using the links above.</p>
+</footer>
+
+</body>
+</html>
